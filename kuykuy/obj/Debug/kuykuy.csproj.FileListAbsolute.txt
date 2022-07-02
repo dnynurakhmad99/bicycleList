@@ -1,0 +1,31 @@
+D:\KULIAH\semester 2\PEMROGRAMAN\coba\kuykuy\kuykuy\bin\Debug\kuykuy.exe.config
+D:\KULIAH\semester 2\PEMROGRAMAN\coba\kuykuy\kuykuy\bin\Debug\kuykuy.exe
+D:\KULIAH\semester 2\PEMROGRAMAN\coba\kuykuy\kuykuy\bin\Debug\kuykuy.pdb
+D:\KULIAH\semester 2\PEMROGRAMAN\coba\kuykuy\kuykuy\obj\Debug\kuykuy.csprojResolveAssemblyReference.cache
+D:\KULIAH\semester 2\PEMROGRAMAN\coba\kuykuy\kuykuy\obj\Debug\kuykuy.exe
+D:\KULIAH\semester 2\PEMROGRAMAN\coba\kuykuy\kuykuy\obj\Debug\kuykuy.pdb
+C:\Users\XCVZ\Desktop\kuykuy\kuykuy\bin\Debug\kuykuy.exe.config
+C:\Users\XCVZ\Desktop\kuykuy\kuykuy\bin\Debug\kuykuy.exe
+C:\Users\XCVZ\Desktop\kuykuy\kuykuy\bin\Debug\kuykuy.pdb
+C:\Users\XCVZ\Desktop\kuykuy\kuykuy\obj\Debug\kuykuy.csprojResolveAssemblyReference.cache
+C:\Users\XCVZ\Desktop\kuykuy\kuykuy\obj\Debug\kuykuy.exe
+C:\Users\XCVZ\Desktop\kuykuy\kuykuy\obj\Debug\kuykuy.pdb
+C:\Users\user\Desktop\kuykuy\kuykuy\bin\Debug\kuykuy.exe.config
+C:\Users\user\Desktop\kuykuy\kuykuy\bin\Debug\kuykuy.exe
+C:\Users\user\Desktop\kuykuy\kuykuy\bin\Debug\kuykuy.pdb
+C:\Users\user\Desktop\kuykuy\kuykuy\obj\Debug\kuykuy.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\kuykuy\kuykuy\obj\Debug\kuykuy.exe
+C:\Users\user\Desktop\kuykuy\kuykuy\obj\Debug\kuykuy.pdb
+D:\18.11.1833\Project\kuykuy\kuykuy\obj\Debug\kuykuy.csprojAssemblyReference.cache
+D:\18.11.1833\Project\kuykuy\kuykuy\obj\Debug\kuykuy.csproj.CoreCompileInputs.cache
+D:\18.11.1833\Project\kuykuy\kuykuy\obj\Debug\kuykuy.exe
+D:\18.11.1833\Project\kuykuy\kuykuy\obj\Debug\kuykuy.pdb
+D:\18.11.1833\Project\kuykuy\kuykuy\bin\Debug\kuykuy.exe.config
+D:\18.11.1833\Project\kuykuy\kuykuy\bin\Debug\kuykuy.exe
+D:\18.11.1833\Project\kuykuy\kuykuy\bin\Debug\kuykuy.pdb
+F:\Danny\Kuliah\Sem 2\Pemrograman\kuykuy\kuykuy\bin\Debug\kuykuy.exe.config
+F:\Danny\Kuliah\Sem 2\Pemrograman\kuykuy\kuykuy\bin\Debug\kuykuy.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\kuykuy\kuykuy\bin\Debug\kuykuy.pdb
+F:\Danny\Kuliah\Sem 2\Pemrograman\kuykuy\kuykuy\obj\Debug\kuykuy.csprojAssemblyReference.cache
+F:\Danny\Kuliah\Sem 2\Pemrograman\kuykuy\kuykuy\obj\Debug\kuykuy.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\kuykuy\kuykuy\obj\Debug\kuykuy.pdb
